@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "created_date": "2025-11-21",
+    "last_updated": "2025-11-21",
+    "total_tests_completed": 0,
+    "total_questions_answered": 0,
+    "overall_success_rate": 0
+  },
+  "notions": {
+    "Lecon_01_이에요예요_usage": {
+      "lesson_id": "Lecon_01",
+      "notion_name": "Utilisation de 이에요 / 예요 (verbe être)",
+      "description": "Savoir utiliser la structure équivalente au verbe être en coréen",
+      "mastery_level": 0,
+      "confidence_score": 0,
+      "total_attempts": 0,
+      "correct_answers": 0,
+      "incorrect_answers": 0,
+      "last_tested": null,
+      "performance_history": [],
+      "suggested_next_review": null,
+      "tags": ["grammaire", "verbe", "structure_de_base"]
+    },
+    "Lecon_01_consonne_vs_voyelle": {
+      "lesson_id": "Lecon_01",
+      "notion_name": "Règle consonne finale vs voyelle finale",
+      "description": "Choisir 이에요 après consonne finale (batchim) et 예요 après voyelle",
+      "mastery_level": 0,
+      "confidence_score": 0,
+      "total_attempts": 0,
+      "correct_answers": 0,
+      "incorrect_answers": 0,
+      "last_tested": null,
+      "performance_history": [],
+      "suggested_next_review": null,
+      "tags": ["grammaire", "règle", "phonétique"]
+    },
+    "Lecon_01_structure_phrase": {
+      "lesson_id": "Lecon_01",
+      "notion_name": "Structure de phrase coréenne (Sujet + Nom + être)",
+      "description": "Comprendre l'ordre des mots dans une phrase simple en coréen",
+      "mastery_level": 0,
+      "confidence_score": 0,
+      "total_attempts": 0,
+      "correct_answers": 0,
+      "incorrect_answers": 0,
+      "last_tested": null,
+      "performance_history": [],
+      "suggested_next_review": null,
+      "tags": ["grammaire", "structure", "syntaxe"]
+    },
+    "Lecon_01_vocabulaire_base": {
+      "lesson_id": "Lecon_01",
+      "notion_name": "Vocabulaire de base (물, 가방, 학교, etc.)",
+      "description": "Mémoriser les mots de vocabulaire introduits dans la leçon 01",
+      "mastery_level": 0,
+      "confidence_score": 0,
+      "total_attempts": 0,
+      "correct_answers": 0,
+      "incorrect_answers": 0,
+      "last_tested": null,
+      "performance_history": [],
+      "suggested_next_review": null,
+      "tags": ["vocabulaire", "mots_courants"]
+    },
+    "Lecon_01_questions_intonation": {
+      "lesson_id": "Lecon_01",
+      "notion_name": "Formation de questions par intonation",
+      "description": "Transformer une affirmation en question en montant l'intonation",
+      "mastery_level": 0,
+      "confidence_score": 0,
+      "total_attempts": 0,
+      "correct_answers": 0,
+      "incorrect_answers": 0,
+      "last_tested": null,
+      "performance_history": [],
+      "suggested_next_review": null,
+      "tags": ["grammaire", "questions", "phonétique"]
+    }
+  },
+  "tests_history": [],
+  "learning_insights": {
+    "strong_areas": [],
+    "areas_to_improve": [],
+    "recommended_focus": "Commencer par tester la Lecon_01",
+    "next_test_number": 1,
+    "test_type_next": "short"
+  },
+  "spaced_repetition_intervals": {
+    "description": "Intervalles suggérés pour révision optimale (jours)",
+    "new_notion": 1,
+    "learning": 3,
+    "familiar": 7,
+    "well_known": 14,
+    "mastered": 30
+  }
+}
+
